@@ -4,7 +4,7 @@
 ## Tecnologias: HTML, CSS e JavaScript
 
 
-### Link KenzieFlix: https://webwomen-sable.vercel.app/
+### Link WebWomen: https://webwomen-sable.vercel.app/
 
 
 
