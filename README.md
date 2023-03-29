@@ -1,6 +1,6 @@
 # WebWomen
 ## O Webwomen será um acervo de vagas afirmativas para o público feminino, visando fomentar a inserção de mulheres no mercado de trabalho de programação.
-## Projeto feito utilizando o conseito Mobile First e renderização via DOM utilizando JavaScript puro.
+## Projeto feito utilizando o conceito Mobile First e renderização via DOM utilizando JavaScript puro.
 ## Tecnologias: HTML, CSS e JavaScript
 
 
